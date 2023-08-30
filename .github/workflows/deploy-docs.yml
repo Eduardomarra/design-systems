@@ -20,6 +20,9 @@ jobs:
       - run: npm ci
 
       - run: npm run build
+        env: 
+          TURBO_TOKEN: NsYTRgcdh5z3OyGMYHKVSwkV
+          TURBO_TEAM: emarra
 
       - name: Deploy storybook
         working-directory: ./packages/docs
