@@ -1,0 +1,2 @@
+import{A as r}from"./index.fef78b91.js";import"./index.3eb7cce2.js";import"./iframe.81a3a153.js";import"./index.e4e90187.js";import"./jsx-runtime.0c31fa5b.js";const p={title:"Data display/Avatar",component:r,args:{src:"https://github.com/eduardomarra.png",alt:"Eduardo Marra"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{c as Primary,m as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.a44d393c.js.map
